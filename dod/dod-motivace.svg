@@ -10,11 +10,11 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2979.9211"
-   height="1417.3228"
+   width="840.99994mm"
+   height="399.99997mm"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="dod-motivace.svg">
   <defs
      id="defs4" />
@@ -25,16 +25,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54984242"
-     inkscape:cx="1440.8739"
-     inkscape:cy="446.93083"
+     inkscape:zoom="0.3887973"
+     inkscape:cx="1721.175"
+     inkscape:cy="555.21584"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1614"
-     inkscape:window-height="1017"
+     inkscape:window-width="1680"
+     inkscape:window-height="997"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      units="mm" />
   <metadata
@@ -45,7 +45,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -69,15 +69,15 @@
          id="text3069"
          y="-2939.0674"
          x="847.54773"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0079c4;fill-opacity:0.99607843;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#0079c4;fill-opacity:0.99607843;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:92px;font-weight:normal;fill:#0079c4;fill-opacity:0.99607843;-inkscape-font-specification:Sans"
+           style="font-weight:normal;font-size:92px;-inkscape-font-specification:Sans;fill:#0079c4;fill-opacity:0.99607843"
            y="-2939.0674"
            x="847.54773"
            id="tspan3071"
            sodipodi:role="line">Geomatika</tspan><tspan
            id="tspan3073"
-           style="font-size:92px;font-weight:normal;fill:#0079c4;fill-opacity:0.99607843;-inkscape-font-specification:Sans"
+           style="font-weight:normal;font-size:92px;-inkscape-font-specification:Sans;fill:#0079c4;fill-opacity:0.99607843"
            y="-2824.0674"
            x="847.54773"
            sodipodi:role="line" /></text>
@@ -86,7 +86,7 @@
          id="text3075"
          y="-2862.738"
          x="853.98523"
-         style="font-size:44.91959px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#0078c1;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;font-size:44.91959px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#0078c1;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="-2862.738"
            x="853.98523"
@@ -99,15 +99,15 @@
            id="tspan3089"
            y="-2750.439"
            x="853.98523"
-           sodipodi:role="line">Naučíš se pracovat s geoinformacemi</tspan><tspan
+           sodipodi:role="line">Získáš znalosti z oblasti geodézie, kartografie, GIS, DPZ, fotogrammetrie, GPS ...</tspan><tspan
            id="tspan3079"
            y="-2694.2896"
            x="853.98523"
-           sodipodi:role="line">Ovládat geografické informační systémy</tspan><tspan
+           sodipodi:role="line">Naučís se ovládat a spoluvytvářet geografické informační systémy (GIS)</tspan><tspan
            id="tspan3083"
            y="-2638.1401"
            x="853.98523"
-           sodipodi:role="line">Analyzovat geografická data</tspan><tspan
+           sodipodi:role="line">Většina digitálních dat má prostorovou složku, naučís se je analyzovat</tspan><tspan
            id="tspan3085"
            y="-2581.9905"
            x="853.98523"
@@ -115,7 +115,7 @@
            id="tspan3093"
            y="-2525.8411"
            x="853.98523"
-           sodipodi:role="line">Staneš se GIS profesionálem!</tspan></text>
+           sodipodi:role="line">Vzhledem k tomu je uplatnění na trhu práce široké!</tspan></text>
       <image
          width="648.92755"
          height="580"
@@ -128,15 +128,15 @@
          id="text3069-1"
          y="-2319.0542"
          x="1165.8678"
-         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#49a942;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;-inkscape-font-specification:Sans;letter-spacing:0px;word-spacing:0px;fill:#49a942;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-size:92px;font-weight:normal;fill:#49a942;fill-opacity:1;-inkscape-font-specification:Sans"
+           style="font-weight:normal;font-size:92px;-inkscape-font-specification:Sans;fill:#49a942;fill-opacity:1"
            y="-2319.0542"
            x="1165.8678"
            id="tspan3071-6"
-           sodipodi:role="line">Laboratoř OSGeoREL</tspan><tspan
+           sodipodi:role="line"> Laboratoř GeoForAll</tspan><tspan
            id="tspan3073-5"
-           style="font-size:92px;font-weight:normal;fill:#49a942;fill-opacity:1;-inkscape-font-specification:Sans"
+           style="font-weight:normal;font-size:92px;-inkscape-font-specification:Sans;fill:#49a942;fill-opacity:1"
            y="-2204.0542"
            x="1165.8678"
            sodipodi:role="line" /></text>
@@ -145,7 +145,7 @@
          id="text3075-1"
          y="-2197.0803"
          x="563.98798"
-         style="font-size:44.91959px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#49a942;fill-opacity:1;stroke:none;font-family:Sans"
+         style="font-style:normal;font-weight:normal;font-size:44.91959px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#49a942;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
            y="-2197.0803"
            x="563.98798"
@@ -158,7 +158,7 @@
            id="tspan3089-2"
            y="-2084.7812"
            x="563.98798"
-           sodipodi:role="line">                        Naučíš se pracovat s open source s důrazem na praxi</tspan><tspan
+           sodipodi:role="line">                           Naučíš se využívat open source s důrazem na praxi</tspan><tspan
            id="tspan3220"
            y="-2028.6318"
            x="563.98798"
